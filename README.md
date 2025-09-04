@@ -22,7 +22,11 @@ This project is my implementation of the PearlThoughts Backend Interview Challen
     ```bash
     cd backend-interview-challenge
     ```
-3.  Install the dependencies:
+3.  Copy environment variables:
+    ```bash
+    cp .env.example .env
+    ```
+4.  Install the dependencies:
     ```bash
     npm install
     ```
@@ -53,7 +57,7 @@ Check the codebase for linting errors:
 npm run lint
 ```
 
-P.S. I was able to eleminate all errors, but warnings are still being generated, as the scope of this assignment demands for no errors to be present that is delivered. 
+P.S. I was able to eleminate all errors, but warnings are still being generated, as the scope of this assignment demands for no errors to be present, thus that is delivered. 
 
 ### Type Check
 
@@ -66,15 +70,7 @@ npm run typecheck
 
 ## Deployment
 
-The deployed API is available at:
-
--> `https://your-deployment-link.com`
-
-#### Example Endpoint:
-
-```http
-GET /api/tasks
-```
+The Template originaly contains conflics in cjs and es6 moduling that causes build to fail. thus no deployment 
 
 ---
 

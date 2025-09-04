@@ -76,10 +76,11 @@ The Template originaly contains conflics in cjs and es6 moduling that causes bui
 
 
 ## Screencast
-    
+
 A screencast explaining the project, including a demo and code walkthrough, is available here:
 
 -> **[Video Link - YouTube](https://youtu.be/u9qcqQeevEA?si=F9xLlyztsSZEWRnL)**
+
 -> **[Video Link - Drive](https://drive.google.com/file/d/1OTAfDUPddbstNDWpS70g62xbBXrQFOPC/view)**
 
 ---
